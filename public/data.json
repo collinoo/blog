@@ -1,0 +1,18 @@
+{
+    "posts":[
+        {
+            "id": 0,
+            "title": "Hello World!",
+            "route": "hello-world",
+            "body": "This is a sample description of Hello World!",
+            "code": "Sample Code Block { console.log('hello world')}"
+        },
+        {
+            "id": 1,
+            "title": "Bash Line Count",
+            "route": "bash-line-count",
+            "body": "Here we use a for-loop to iterate over a file to determine the amount of lines",
+            "code": "#!/bin/bash \n \t # Simple line count example, using bash"
+        }
+    ]
+}
